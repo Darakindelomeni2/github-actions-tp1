@@ -25,8 +25,11 @@ Hello World from GitHub Actions!
 Cleaning up orphan processes
 
 ## 10. Commit et pousse ce nouveau workflow. Vérifie l'exécution dans l'onglet Actions. Que constates-tu ?
+test.yaml s'est exécuté deux fois avec sous titre l'un qui run test.yaml et l'autre hello.yaml
+Le job test installe python et ses dépendances, fais les tests et désinstalle pyton
 
 ## 11. Que se passe-t-il lors du prochain push ?
+Le run test bug mais j'avais déjà été prévenu par mon correcteur de syntaxe vscode
 
 ## 14.  Que constates-tu après le push ? 
 
