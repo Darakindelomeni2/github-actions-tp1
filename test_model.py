@@ -1,4 +1,5 @@
-from model import predict_sentiment 
+from model import predict_sentiment
+# fichier de test pour le modèle de prédiction de sentiment
  
 def test_predict_positive(): 
     assert predict_sentiment("I am happy today") == "positive" 

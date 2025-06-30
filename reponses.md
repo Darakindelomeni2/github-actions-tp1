@@ -32,6 +32,7 @@ Le job test installe python et ses dépendances, fais les tests et désinstalle 
 Le run test bug mais j'avais déjà été prévenu par mon correcteur de syntaxe vscode
 
 ## 14.  Que constates-tu après le push ? 
+Le test.yaml a exécuté 3 jobs, un pour chaque version de python de la matrice
 
 ## 18. Que se passe-t-il avec ton workflow de commentaires ?
 

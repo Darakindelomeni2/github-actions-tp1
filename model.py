@@ -1,3 +1,5 @@
+# fichier de modèle de prédiction de sentiment
+
 def predict_sentiment(text): 
     if not text: 
         return "neutral" 
