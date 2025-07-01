@@ -44,6 +44,13 @@ J'ai un build status badge passed dans le readme
 Il a build l'image docker
 
 ## 27. Commit et pousse ces modifications. Vérifie l'onglet Actions et télécharge l'artifact généré. Que contient-il ?
+Le metrics.json
+{
+  "accuracy": 0.929,
+  "precision": 0.934,
+  "recall": 0.845,
+  "f1_score": 0.889
+}
 
 ## 30.  Pousse plusieurs fois les modifications et observe les résultats. Que constates-tu ?
 
