@@ -1,5 +1,6 @@
 # modif de newbranch
 # fichier de modèle de prédiction de sentiment
+# test evaluate
 
 def predict_sentiment(text): 
     if not text: 
