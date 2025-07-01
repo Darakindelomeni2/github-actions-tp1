@@ -53,6 +53,7 @@ Le metrics.json
 }
 
 ## 30.  Pousse plusieurs fois les modifications et observe les résultats. Que constates-tu ?
+Aléatoirement ça échoue
 
 ## 33. Va dans l'onglet Actions sur GitHub et déclenche manuellement ce workflow. Que constates-tu ?
 
