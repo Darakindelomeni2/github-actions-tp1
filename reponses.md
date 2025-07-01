@@ -35,6 +35,7 @@ Le run test bug mais j'avais déjà été prévenu par mon correcteur de syntaxe
 Le test.yaml a exécuté 3 jobs, un pour chaque version de python de la matrice
 
 ## 18. Que se passe-t-il avec ton workflow de commentaires ?
+La pull request est bien sur github et est passée sans soucis puisque pas de conflit
 
 ## 21.  Que constates-tu après avoir poussé ces modifications ?
 
