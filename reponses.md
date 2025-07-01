@@ -59,6 +59,7 @@ Aléatoirement ça échoue
 Il m'indique juste qu'il a un workflow_dispatch event trigger mais fonctionne
 
 ## 36.  Vérifie dans l'onglet "Releases" de ton repository. Que constates-tu ?
+J'ai un tag v1.0.0 qui est apparu
 
 ## 38. Ajoute plus de commentaires à ton fichier model.py et pousse-le. Vérifie l'artifact de documentation. Que contient-il ?
 
