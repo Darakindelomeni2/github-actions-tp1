@@ -56,6 +56,7 @@ Le metrics.json
 Aléatoirement ça échoue
 
 ## 33. Va dans l'onglet Actions sur GitHub et déclenche manuellement ce workflow. Que constates-tu ?
+Il m'indique juste qu'il a un workflow_dispatch event trigger mais fonctionne
 
 ## 36.  Vérifie dans l'onglet "Releases" de ton repository. Que constates-tu ?
 
