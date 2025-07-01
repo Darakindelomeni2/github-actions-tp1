@@ -38,6 +38,7 @@ Le test.yaml a exécuté 3 jobs, un pour chaque version de python de la matrice
 La pull request est bien sur github et est passée sans soucis puisque pas de conflit
 
 ## 21.  Que constates-tu après avoir poussé ces modifications ?
+J'ai un build status badge passed dans le readme
 
 ## 24. Commit et pousse ces modifications. Que constates-tu dans l'onglet Actions ?
 
