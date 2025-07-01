@@ -1,5 +1,5 @@
 # MLOps GitHub Actions TP 
  
 ![Build　
-Status](https://github.com/ton-username/mlops-github-actions-tp
- /actions/workflows/badge.yml/badge.svg) 
+Status](https://github.com/Darakindelomeni2/github-actions-tp1
+ /actions/workflows/badge.yaml/badge.svg) 
