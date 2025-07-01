@@ -81,5 +81,6 @@ A près correction du fichier qui n'est pas bon j'obtiens l'artefact avec le con
 Le temps réduit
 
 ## 42. Pousse ce workflow et observe la visualisation dans l'onglet Actions. Que constates-tu sur l'ordre d'exécution des job ?
+Qu'ils s'exécutent en même temps
 
 ## 44. Pousse ce workflow et explore la visualisation complète du pipeline MLOps. Que penses-tu de cette structure pour un projet ML réel ?

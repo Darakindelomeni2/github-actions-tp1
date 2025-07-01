@@ -2,6 +2,7 @@
 # fichier de modèle de prédiction de sentiment
 # test evaluate
 # re re re test documentation
+# test pipeline
 
 def predict_sentiment(text): 
     if not text: 
