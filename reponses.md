@@ -41,6 +41,7 @@ La pull request est bien sur github et est passée sans soucis puisque pas de co
 J'ai un build status badge passed dans le readme
 
 ## 24. Commit et pousse ces modifications. Que constates-tu dans l'onglet Actions ?
+Il a build l'image docker
 
 ## 27. Commit et pousse ces modifications. Vérifie l'onglet Actions et télécharge l'artifact généré. Que contient-il ?
 
