@@ -62,6 +62,20 @@ Il m'indique juste qu'il a un workflow_dispatch event trigger mais fonctionne
 J'ai un tag v1.0.0 qui est apparu
 
 ## 38. Ajoute plus de commentaires à ton fichier model.py et pousse-le. Vérifie l'artifact de documentation. Que contient-il ?
+A près correction du fichier qui n'est pas bon j'obtiens l'artefact avec le contenu suivant
+```bash
+<a id="model"></a>
+
+# model
+
+<a id="test_model"></a>
+
+# test\_model
+
+<a id="metrics"></a>
+
+# metrics
+```
 
 ## 40. Ajoute une nouvelle dépendance à requirements.txt et pousse-la. Exécute ce workflow deux fois. Que constates-tu au niveau du temps d'exécution ?
 
