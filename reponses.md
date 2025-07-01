@@ -78,6 +78,7 @@ A près correction du fichier qui n'est pas bon j'obtiens l'artefact avec le con
 ```
 
 ## 40. Ajoute une nouvelle dépendance à requirements.txt et pousse-la. Exécute ce workflow deux fois. Que constates-tu au niveau du temps d'exécution ?
+Le temps réduit
 
 ## 42. Pousse ce workflow et observe la visualisation dans l'onglet Actions. Que constates-tu sur l'ordre d'exécution des job ?
 
